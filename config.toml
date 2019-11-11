@@ -1,0 +1,11 @@
+theme = "hugo-minimalist-spa"
+
+author = "Carlos"
+languageCode = "en-us"
+title = "Carlos website"
+
+[params]
+    accent = "#006264"
+    backgroundColor = "#f5f5f5"
+    font = "Mina"
+    description = "This is my website"
