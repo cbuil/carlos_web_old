@@ -3,6 +3,7 @@ theme = "hugo-minimalist-spa"
 author = "Carlos"
 languageCode = "en-us"
 title = "Carlos website"
+baseurl = "/"
 
 [params]
     accent = "#006264"
